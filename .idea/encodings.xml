@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/socket8/Manager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/fileanalysis/FileAnalysis.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/fileanalysis/FileAnalysisThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/fileanalysis/FileToWork.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/fileanalysis/FileWriteToLog.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/taskdistribute/TaskDistribute.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/taskdistribute/TaskDistributeThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/taskdistribute/TaskToFile.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/workstation/WorkManager.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/workstation/WorkStation.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/workstation/WorkStationThread.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/socket8/workstation/WorkToFile.java" charset="UTF-8" />
+  </component>
+</project>
